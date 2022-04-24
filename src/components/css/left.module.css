@@ -1,0 +1,23 @@
+.left{
+    width: 20%;
+    font-size: 14px;
+    color: rgb(81, 80, 80);
+    padding-left: 7px;
+    padding-top: 20px;
+}
+.inpt{
+    width: 90%;
+    height: 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: auto;
+}
+.left>div>input{
+    border-style: hidden;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.btn{
+    border-style: none;
+    background-color: #fff;
+}

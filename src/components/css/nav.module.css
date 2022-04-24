@@ -1,0 +1,34 @@
+.navdropdown{
+    width: 120px;
+    border: 1px solid #ccc;
+    border-radius:5px;
+    font-size: 12px;
+    margin-left: 10px;
+}
+.navbtn{
+    padding: 0px 25px;
+    border: 1px solid rgb(85, 252, 252);
+    border-radius:5px;
+    color: rgb(85, 252, 252);
+    font-size: 12px;
+    background-color: white;
+}
+.nav{
+    border: 1px solid #ccc;
+    border-radius:8px 8px 0px 0px;
+}
+.p{
+    font-size: 10px;
+    color: rgb(161, 153, 153);
+    padding-top:10px;
+}
+.nav{
+    background-color: #fff;
+}
+.dropdown{
+    margin:20px 0px;
+    border: 1px solid #ccc;
+    width: 30%;
+    padding: 5px;
+    border-radius:5px;
+}

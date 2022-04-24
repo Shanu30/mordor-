@@ -1,0 +1,75 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "country": "France",
+            "browser": "Chrome"
+        },
+        {
+            "id": 2,
+            "country": "India",
+            "browser": "Chrome"
+        },
+        {
+            "id": 3,
+            "country": "United States",
+            "browser": "Chrome"
+        },
+        {
+            "id": 4,
+            "country": "United Kingdom",
+            "browser": "Chrome"
+        },
+        {
+            "id": 5,
+            "country": "France",
+            "browser": "Safari"
+        },
+        {
+            "id": 6,
+            "country": "United Kingdom",
+            "browser": "Safari"
+        },
+        {
+            "id": 7,
+            "country": "United States",
+            "browser": "Safari"
+        },
+        {
+            "id": 8,
+            "country": "India",
+            "browser": "Safari"
+        },
+        {
+            "id": 9,
+            "country": "France",
+            "browser": "Edge"
+        },
+        {
+            "id": 10,
+            "country": "Germany",
+            "browser": "Edge"
+        },
+        {
+            "id": 10,
+            "country": "United Kingdom",
+            "browser": "Edge"
+        },
+        {
+            "id": 11,
+            "country": "United Kingdom",
+            "browser": "Firefox"
+        },
+        {
+            "id": 12,
+            "country": "France",
+            "browser": "Firefox"
+        },
+        {
+            "id": 13,
+            "country": "Germany",
+            "browser": "Firefox"
+        }
+    ]
+    
+}

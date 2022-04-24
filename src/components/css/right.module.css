@@ -1,0 +1,35 @@
+.right{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    border-left: 1px solid #ccc;
+    margin-left: 20px;
+    font-size: 14px;
+}
+.head{
+    width: 100%;
+    height: 30px;
+    border-bottom: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+}
+.browser{
+    width: 20%;
+    text-align: center;
+    
+}
+.country{
+    width: 20%;
+    text-align: center;
+}
+.date{
+    width: 60%;
+}
+.graph{
+    width: 400px;
+    height: 250px;
+}
+.item{
+    height: 255px;
+    border-bottom: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+}
